@@ -1,0 +1,10 @@
+.leaflet {
+  height: 300px;
+  width: 900px;
+}
+
+.leaflet-container {
+  height: 400px;
+  width: 80%;
+  margin: 0 auto;
+}
